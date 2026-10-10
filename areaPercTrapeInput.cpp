@@ -51,7 +51,7 @@ int main() {
 
 
     // calculate the area
-    float area = 0.5 * (topBase + bottomBase) * height;
+    area = 0.5 * (topBase + bottomBase) * height;
 
 
     // Display the perimeter of the trapezium
